@@ -9,6 +9,7 @@ A Node.js command-line tool for compiling Q-Sys plugins with support for file in
 - **Version Management**: Automatically increment plugin versions (major, minor, fix, dev)
 - **UUID Generation**: Auto-generate unique plugin IDs
 - **Circular Include Detection**: Prevents infinite loops from circular file dependencies
+- **Use any IDE**: Configure this to run for build tasks in your IDE of choice
 
 ## Supported Image Formats
 
